@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "バルピネ",
+  "base_artist": "Vivid Lila",
+  "createdAt": "2025-12-03T02:42:20.404026Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バルピネ (feat. 棗いつき)",
+      "artist": "Vivid Lila",
+      "has_synced": false,
+      "path": "select/pl_01_バルピネ_(feat._棗いつき)_Vivid_Lila.txt"
+    }
+  ]
+}
